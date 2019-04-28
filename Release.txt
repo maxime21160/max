@@ -1,0 +1,8 @@
+﻿Origin: Maxime21910
+Label: Maxime21910
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Maxime21910 - a cydia repo template
